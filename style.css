@@ -1,0 +1,81 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.body{
+    background-color: black;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 25px;
+}
+.container1{
+display: flex;
+align-items: center;
+justify-content: space-around;
+border: none;
+margin: 25px;
+}
+.ha{
+    font-weight: 800;
+    color: skyblue;
+}
+.fit{
+    color: skyblue;
+    margin: 50px 560px;
+}
+.container2{
+    text-align: center;
+}
+.lip{
+    background-color: skyblue;
+}
+.card{
+    text-align: center;
+    justify-content: space-evenly;
+}
+.cold{
+margin: 0 auto;
+
+}
+.kino{
+    color: skyblue;
+    margin: 50px 600px;
+}
+.hr{
+    color: white;
+    width: 650px;
+    margin-left: 600px;
+}
+.pila{
+    color: white;
+    margin-left: 600px;
+}
+.container4{
+    margin: 25px 600px 25px 600px;
+    display: flex;
+    justify-content: space-between;
+}
+.jprq{
+    width: 250px;
+    height: 230px;
+}
+.fat{
+    margin-left: 600px;
+}
+.gih{
+    background-color: skyblue;
+    
+}
+.P{
+    padding-top: 50px;
+}
+.h78{
+    padding-top: 25px;
+}
+
+
